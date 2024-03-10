@@ -1,0 +1,12 @@
+eddpay_activate_subscription_header	Activate subscription	Call to action "Activate subscription".	CM Instant EDD Payments
+eddpay_activate_subscription_text	To view this channel please activate subscription.	Text on the paybox for logged-in users.	CM Instant EDD Payments
+eddpay_activate_subscription_text_guest	To view this channel please login and activate subscription.	Text on the paybox for not logged-in users.	CM Instant EDD Payments
+eddpay_period_for_amount	%s for $%.2f	Subscription option to choose eg. "2 weeks for $20".	CM Instant EDD Payments
+eddpay_subscription_checkout_button	Checkout	Checkout button label.	CM Instant EDD Payments
+eddpay_subscription_checkout_button_period_for_amount	Checkout %s for $%.2f	Activate subscription button label when only one cost is available.	CM Instant EDD Payments
+eddpay_subscription_activate_success	Your subscription has been activated.	Success message after subscription has been activated.	CM Instant EDD Payments
+eddpay_checkout_redirection	You will be redirected now to the checkout page.	Checkout redirection message.	CM Instant EDD Payments
+eddpay_transaction_label	CM Video Lessons: Checkout channel %s - %s	Channel transaction label.	CM Instant EDD Payments
+eddpay_transaction_all_channels_label	CM Video Lessons: Checkout access to all channels for %s	All channels transaction label.	CM Instant EDD Payments
+eddpay_channel_cost	Subscription checkout cost:	Subscription checkout cost	CM Instant EDD Payments
+eddpay_receipt_backlink	Back to channel %s	Receipt backlink text.	CM Instant EDD Payments
