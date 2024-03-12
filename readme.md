@@ -11,7 +11,7 @@
 
 **Simplify the administration of your eLearning video-materials with our plugin.**
 
-This WP-plugin enables students to view, monitor their progress, engage in discussions, subscribe to online courses effortlessly. Video Lessons Manager plugin empowers educators to seamlessly control video-courses and keep an eye on student advancement. Learners are provided with the functionality to comment on videos, highlight their top picks, and enjoy a cohesive layout of videos paired with their respective course information.
+This WP-plugin enables students to view, monitor their progress and subscribe to online courses effortlessly. Video Lessons Manager plugin empowers educators to seamlessly control video-courses and keep an eye on student advancement. Learners are provided with the functionality to leave notes to videos and lessons, highlight their top picks, and enjoy a cohesive layout of videos paired with their respective course information.
 
 ## Installation
 
@@ -21,7 +21,7 @@ This WP-plugin enables students to view, monitor their progress, engage in discu
 
 ## Video LMS Plugin Premium Editions
 
-The [Premium versions of the Video LMS Plugin](https://www.cminds.com/wordpress-plugins-library/video-lessons-manager-plugin-for-wordpress/) come packed with an array of enhanced capabilities, including: the addition of payment processing via WooCommerce or Easy Digital Downloads, a variety of course layouts, a comprehensive student progress panel, as well as the incorporation of quizzes and certificates, among other advanced features..
+The [Premium versions of the Video LMS Plugin](https://www.cminds.com/wordpress-plugins-library/video-lessons-manager-plugin-for-wordpress/) come packed with an array of enhanced capabilities, including: the addition of payment processing via WooCommerce or Easy Digital Downloads, a variety of course layouts, a comprehensive student progress panel, as well as the incorporation of quizzes and certificates, among other advanced features.
 
 ## Use Cases
 
