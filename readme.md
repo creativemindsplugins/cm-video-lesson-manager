@@ -3,7 +3,7 @@
 * Name: Video Lessons Manager
 * Contributors: CreativeMindsSolutions
 * Minimum WordPress version: 5.4.0
-* Tested up to WordPress version: 6.6
+* Tested up to WordPress version: 6.7.2
 
 ## Introduction
 
@@ -62,7 +62,9 @@ The [Premium versions of the Video LMS Plugin](https://www.cminds.com/wordpress-
 * **Selective Access**: Determine who can view your online courses, with options for both registered and unregistered users.
 * **Visual Variety**: Present your video lessons with a selection of visual templates.
 * **Progressive Learning**: Set videos to unlock based on user engagement and time intervals.
+* **Time Restrictions** – Restrict access to videos by time per user or lesson. Once a user reaches his watching limit, the access will be blocked.
 * **Stay Informed**: Keep track of user progress with customizable notifications.
+* **Badges** – Let your users achieve points for watching lessons and courses and get achievement badges.
 * **E-commerce Enabled**: Offer videos, lessons, or courses for sale, with seamless payment processing through Easy Digital Downloads and various payment gateways.
 * **Interactive Quizzes**: Enhance learning with quizzes that test users’ knowledge after video lessons.
 * **Achievement Recognition**: Award certificates to users who successfully complete videos, lessons, courses, or quizzes.
